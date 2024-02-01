@@ -1,23 +1,49 @@
-# SendScriptWhatsApp
+# SendScriptWhatsApp - Spanish
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Code to send the entire Shrek or Bee Movie script to your friends or WhatsApp groups.
 
-## Utilização
+## Use
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Open [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+Or
+Open [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+Copy all the content (click raw -> ctrl+a -> ctrl+c)
 
-No WhatsApp Web abra o console do Browser
+In WhatsApp Web open the Browser console.
 
-|  ⚠️ Aviso importante, numa atualização recente do Google Chrome, está sendo impedido que qualquer script seja colado no Console.|
+| ⚠️ Important notice, in a recent Google Chrome update, it is being prevented from pasting any scripts into the Console.
 |--|
-|  ***Para contornar esse problema, o console do desenvolvedor espera receber um confirmação textual escrevendo no console: "allow-scripts"***| 
-|Após isso será permitido colar e continuar a execução do script|
+| To work around this problem, the developer console expects to receive a textual confirmation by typing into the console: "allow-scripts"***| 
+|After that, you will be allowed to paste and continue executing the script.
 
 
-Cole o código no console e aperte Enter
+Paste the code into the console and press Enter.
 
-Pronto
+Hug!
+
+- - - - - - - - - -
+
+# SendScriptWhatsApp - Español
+
+Código para enviar el guión completo de Shrek o Bee Movie a tus amigos o grupos de WhatsApp.
+
+## Usar
+
+Abrir [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+O
+Abrir [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+
+Copia todo el contenido (click raw -> ctrl+a -> ctrl+c)
+
+En WhatsApp Web abra la consola del navegador.
+
+| ⚠️ Aviso importante, en una reciente actualización de Google Chrome, se está impidiendo pegar cualquier script en la Consola.
+|--|
+| Para solucionar este problema, la consola de desarrollador espera recibir una confirmación textual escribiendo en la consola: "allow-scripts "***|. 
+| Después de eso, se le permitirá pegar y continuar ejecutando el script.
+
+
+Pega el código en la consola y pulsa Intro.
+
+Abrazo!
