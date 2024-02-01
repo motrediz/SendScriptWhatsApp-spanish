@@ -3230,7 +3230,7 @@ y cada uno de nosotros!
 
 ¡Canten, todos!
 
-YVIVI ERON FEOS PARA SI EMPRE
+Y VIVIERON FEOS PARA SI EMPRE
 
 ¡Qué divertido!
 
@@ -3238,5 +3238,5 @@ No puedo respirar,
 
 No puedo respirar!.
 
-THE END.
+THE END
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
