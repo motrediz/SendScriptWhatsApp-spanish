@@ -1,49 +1,20 @@
-# SendScriptWhatsApp - Spanish
+# EnviarGuionWhatsApp
 
-Code to send the entire Shrek or Bee Movie script to your friends or WhatsApp groups.
+Código para enviar el guion completo de "Shrek" a los estafadores insoportables que te escriben por WhatsApp.
 
-## Use
+## Uso
 
-Open [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Or
-Open [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Abre [shrekSendScript.js](https://github.com/raggiodev/SendScriptWhatsApp-spanish/blob/main/shrekSendScript.js)
 
-Copy all the content (click raw -> ctrl+a -> ctrl+c)
+Copia todo el contenido (haz clic en "raw" -> "CTRL + A" -> "CTRL + C").
 
-In WhatsApp Web open the Browser console.
+En WhatsApp Web, abre la consola del navegador.
 
-| ⚠️ Important notice, in a recent Google Chrome update, it is being prevented from pasting any scripts into the Console.
-|--|
-| To work around this problem, the developer console expects to receive a textual confirmation by typing into the console: "allow-scripts"***| 
-|After that, you will be allowed to paste and continue executing the script.
+|  ⚠️ Aviso importante: En una actualización reciente de Google Chrome, se ha bloqueado la posibilidad de pegar scripts directamente en la consola.|  
+|--|  
+|  ***Para solucionar este problema, escribe en la consola "allow pasting" para habilitar el pegado.*** |  
+|Luego de esto, podrás pegar el código y continuar con la ejecución del script.|
 
+Pega el código en la consola y presiona Enter.
 
-Paste the code into the console and press Enter.
-
-Hug!
-
-- - - - - - - - - -
-
-# SendScriptWhatsApp - Español
-
-Código para enviar el guión completo de Shrek o Bee Movie a tus amigos o grupos de WhatsApp.
-
-## Usar
-
-Abrir [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-O
-Abrir [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
-
-Copia todo el contenido (click raw -> ctrl+a -> ctrl+c)
-
-En WhatsApp Web abra la consola del navegador.
-
-| ⚠️ Aviso importante, en una reciente actualización de Google Chrome, se está impidiendo pegar cualquier script en la Consola.
-|--|
-| Para solucionar este problema, la consola de desarrollador espera recibir una confirmación textual escribiendo en la consola: "allow-scripts "***|. 
-| Después de eso, se le permitirá pegar y continuar ejecutando el script.
-
-
-Pega el código en la consola y pulsa Intro.
-
-Abrazo!
+¡Listo!
