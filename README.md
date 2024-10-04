@@ -18,3 +18,8 @@ En WhatsApp Web, abre la consola del navegador.
 Pega el código en la consola y presiona Enter.
 
 ¡Listo!
+
+---
+
+IDEA ORIGINAL:
+https://github.com/Matt-Fontes/SendScriptWhatsApp | Apóyalo! :)
