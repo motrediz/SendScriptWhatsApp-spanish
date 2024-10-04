@@ -1,4 +1,4 @@
-# EnviarGuionWhatsApp
+# SendScriptWhatsApp in spanish | EnviarGuionWhatsApp en español
 
 Código para enviar el guion completo de "Shrek" a los estafadores insoportables que te escriben por WhatsApp.
 
